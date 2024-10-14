@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @talisor
 - 👀 I’m interested in .NET development
-- 🌱 I’m currently learning .NET Core
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning .NET MAUI
 
 <!---
 talisor/talisor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
